@@ -1,0 +1,11 @@
+torch=1.12.1
+faiss-gpu
+sentence-transformers
+pyserini
+pyvi
+transformers
+dateparser
+thefuzz
+jupyterlab
+pandas
+coloredlogs
